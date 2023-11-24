@@ -1,0 +1,76 @@
+Script inciado em qui 23 nov 2023 20:45:57 -03
+Script inciado em qui 23 nov 2023 20:51:30 -03
+Script inciado em qui 23 nov 2023 21:17:36 -03
+Script inciado em qui 23 nov 2023 21:20:25 -03
+Script inciado em qui 23 nov 2023 21:28:12 -03
+qui 23 nov 2023 21:44:38 -03: &1
+qui 23 nov 2023 21:46:09 -03: &1
+qui 23 nov 2023 21:58:02 -03: &1
+qui 23 nov 2023 21:58:02 -03: &1
+qui 23 nov 2023 21:58:02 -03: &1
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Atingido:2 http://deb.debian.org/debian bookworm InRelease
+Atingido:3 http://deb.debian.org/debian stable InRelease
+Atingido:4 http://security.debian.org/debian-security bookworm-security InRelease
+Atingido:5 http://deb.debian.org/debian bookworm-updates InRelease
+Ign:6 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial InRelease
+Atingido:7 https://packages.microsoft.com/ubuntu/16.04/prod xenial InRelease
+Atingido:8 https://packages.microsoft.com/repos/code stable InRelease
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Err:9 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial Release
+  404  Not Found [IP: 13.90.21.104 443]
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Err:1 https://stf.if.usp.br/debian stable InRelease
+  Não foi possível resolver 'stf.if.usp.br'
+Lendo listas de pacotes...
+W: https://packages.microsoft.com/ubuntu/16.04/prod/dists/xenial/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.
+E: The repository 'https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial Release' does not have a Release file.
+qui 23 nov 2023 22:03:56 -03: &1
+qui 23 nov 2023 22:03:56 -03: &1
+qui 23 nov 2023 22:03:56 -03: &1
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Atingido:2 http://deb.debian.org/debian bookworm InRelease
+Atingido:3 http://security.debian.org/debian-security bookworm-security InRelease
+Atingido:4 http://deb.debian.org/debian stable InRelease
+Atingido:5 http://deb.debian.org/debian bookworm-updates InRelease
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Ign:6 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial InRelease
+Atingido:7 https://packages.microsoft.com/ubuntu/16.04/prod xenial InRelease
+Atingido:8 https://packages.microsoft.com/repos/code stable InRelease
+Err:9 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial Release
+  404  Not Found [IP: 13.82.67.141 443]
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+qui 23 nov 2023 22:07:07 -03: &1
+qui 23 nov 2023 22:07:07 -03: &1
+qui 23 nov 2023 22:07:07 -03: &1
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Atingido:2 http://deb.debian.org/debian bookworm InRelease
+Atingido:3 http://security.debian.org/debian-security bookworm-security InRelease
+Atingido:4 http://deb.debian.org/debian stable InRelease
+Atingido:5 http://deb.debian.org/debian bookworm-updates InRelease
+Ign:6 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial InRelease
+Atingido:7 https://packages.microsoft.com/ubuntu/16.04/prod xenial InRelease
+Atingido:8 https://packages.microsoft.com/repos/code stable InRelease
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Err:9 https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial Release
+  404  Not Found [IP: 13.90.21.104 443]
+Ign:1 https://stf.if.usp.br/debian stable InRelease
+Err:1 https://stf.if.usp.br/debian stable InRelease
+  Não foi possível resolver 'stf.if.usp.br'
+Lendo listas de pacotes...
+W: https://packages.microsoft.com/ubuntu/16.04/prod/dists/xenial/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.
+E: The repository 'https://packages.microsoft.com/ubuntu/16.04/mssql-server xenial Release' does not have a Release file.
+qui 23 nov 2023 22:08:58 -03: &1
+qui 23 nov 2023 22:08:58 -03: &1
+qui 23 nov 2023 22:08:58 -03: &1
+[2023-11-23 22:18:36] [INFO] Atualização concluida com sucesso
+[2023-11-23 22:18:36] [INFO] Espaço de disco liberado: -1919
+[2023-11-23 22:18:36] [INFO] Número de pacotes atualizado: 0
+[2023-11-23 22:20:35] [INFO] Erro: Falha na conexão de rede. Verifique sua conexão com a internet
+[2023-11-23 22:22:38] [INFO] Atualização concluida com sucesso
+[2023-11-23 22:22:38] [INFO] Espaço de disco liberado: -1909
+[2023-11-23 22:22:38] [INFO] Número de pacotes atualizado: 0
+[2023-11-24 11:28:33] [INFO] Erro: Falha na conexão de rede. Verifique sua conexão com a internet
+[2023-11-24 11:41:42] [INFO] Atualização concluida com sucesso
+[2023-11-24 11:41:42] [INFO] Espaço de disco liberado: -1909
+[2023-11-24 11:41:42] [INFO] Número de pacotes atualizado: 0
